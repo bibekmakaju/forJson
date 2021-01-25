@@ -1,0 +1,70 @@
+[
+  {
+
+    "invoice_no": 1233123,
+    "name": "Tom Cruise",
+    "address": "wall street",
+    "city":" New WOrk",
+    "country ":"usa",
+    "date": "2021-10-12",
+    "phone": "23224324234",
+    "email": "bibekmakaju@mss.com",
+    "bill_of_loading_no": "223sds",
+    "destination": "dest",
+    "cont_type": "dsa2",
+    "Vessel_Voyage": "2021-10-12",
+    "port_of_loading": "sada",
+    "no_of_pkgs": "2",
+    "net weight": "24",
+    "ex_rate": "$23 per kgs",
+
+    "goods":[{
+      "items":"paper",
+      "weight":"2kg",
+      "volume":"2cm*2cm*2cm",
+      "chemical_composition":"paper"
+    },
+
+      {
+        "items":"paper",
+        "weight":"2kg",
+        "volume":"2cm*2cm*2cm",
+        "chemical_composition":"paper"
+      }
+    ]
+  },
+  {
+
+    "invoice_no": 1233123,
+    "name": "Tom Cruise",
+    "address": "wall street",
+    "city":" New WOrk",
+    "country ":"usa",
+    "date": "2021-10-12",
+    "phone": "23224324234",
+    "email": "bibekmakaju@mss.com",
+    "bill_of_loading_no": "223sds",
+    "destination": "dest",
+    "cont_type": "dsa2",
+    "Vessel_Voyage": "2021-10-12",
+    "port_of_loading": "sada",
+    "no_of_pkgs": "2",
+    "net weight": "24",
+    "ex_rate": "$23 per kgs",
+
+    "goods":[{
+      "items":"paper",
+      "weight":"2kg",
+      "volume":"2cm*2cm*2cm",
+      "chemical_composition":"paper"
+    },
+
+      {
+        "items":"paper",
+        "weight":"2kg",
+        "volume":"2cm*2cm*2cm",
+        "chemical_composition":"paper"
+      }
+    ]
+  }
+]
