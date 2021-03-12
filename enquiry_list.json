@@ -1,52 +1,43 @@
 [
-{
-
-    "full_name": "Tom Cruise",
-    "location": "wall street",
-    "city":" New WOrk",
-    "shpipping_country ":"usa",
-    "enquiry_date": "2021-10-12",
-    "phone": "23224324234",
-    "email": "bibekmakaju@mss.com",
-    "description": "223sds",
-    
-},
-  
   {
-
     "full_name": "Tom Cruise",
     "location": "wall street",
-    "city":" New WOrk",
-    "shpipping_country ":"usa",
+    "city": " New WOrk",
+    "shpipping_country ": "usa",
     "enquiry_date": "2021-10-12",
     "phone": "23224324234",
     "email": "bibekmakaju@mss.com",
-    "description": "223sds",
-    
-},
+    "description": "223sds"
+  },
+
   {
-
     "full_name": "Tom Cruise",
     "location": "wall street",
-    "city":" New WOrk",
-    "shpipping_country ":"usa",
+    "city": " New WOrk",
+    "shpipping_country ": "usa",
     "enquiry_date": "2021-10-12",
     "phone": "23224324234",
     "email": "bibekmakaju@mss.com",
-    "description": "223sds",
-    
-},
+    "description": "223sds"
+  },
   {
-
     "full_name": "Tom Cruise",
     "location": "wall street",
-    "city":" New WOrk",
-    "shpipping_country ":"usa",
+    "city": " New WOrk",
+    "shpipping_country ": "usa",
     "enquiry_date": "2021-10-12",
     "phone": "23224324234",
     "email": "bibekmakaju@mss.com",
-    "description": "223sds",
-    
-},
-  
+    "description": "223sds"
+  },
+  {
+    "full_name": "Tom Cruise",
+    "location": "wall street",
+    "city": " New WOrk",
+    "shpipping_country ": "usa",
+    "enquiry_date": "2021-10-12",
+    "phone": "23224324234",
+    "email": "bibekmakaju@mss.com",
+    "description": "223sds"
+  }
 ]
