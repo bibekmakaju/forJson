@@ -1,0 +1,79 @@
+{
+    "customers": 3,
+    "contracts": 1,
+    "invoices": 23,
+    "paid_invoices": 2,
+    "unpaid_invoices": 20,
+    "this_month_invoices": [
+        {
+            "invoice_title": "Website Development",
+            "paid_date": null,
+            "due_date": "2020-03-31"
+        },
+        {
+            "invoice_title": "domain",
+            "paid_date": null,
+            "due_date": "2020-03-31"
+        },
+        {
+            "invoice_title": "mentormigration.com.au",
+            "paid_date": null,
+            "due_date": "2020-03-11"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2022-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2022-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2022-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2022-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2021-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2022-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2022-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2022-03-02"
+        },
+        {
+            "invoice_title": null,
+            "paid_date": null,
+            "due_date": "2021-03-02"
+        },
+        {
+            "invoice_title": "Domain | Hosting Trvpartner.com",
+            "paid_date": null,
+            "due_date": "2021-03-23"
+        }
+    ],
+    "overall_paid": "0.00",
+    "overall_unpaid": "0.00",
+    "current_fiscal_year": "19/20",
+    "status": 1,
+    "message": "Success"
+}
